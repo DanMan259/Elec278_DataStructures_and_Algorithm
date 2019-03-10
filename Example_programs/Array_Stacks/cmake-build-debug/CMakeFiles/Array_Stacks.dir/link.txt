@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Array_Stacks.dir/main.c.o  -o Array_Stacks 
